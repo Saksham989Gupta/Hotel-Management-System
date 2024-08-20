@@ -17,13 +17,13 @@ View Developer Information
 Logout
 3. Customer Page: 
 Collects and stores all relevant customer information.
-Saves the data in the Customer table within the MySQL database.
+Saves the data in the customer table within the MySQL database.
 4. Booking Page: 
 Gathers all booking-related information such as room number, booking date, etc.
-Saves the data in the Booking table within the MySQL database.
+Saves the data in the booking table within the MySQL database.
 5. Details Page: 
 Records and displays all room details for the hotel.
-Saves the data in the Details table within the MySQL database.
+Saves the data in the details table within the MySQL database.
 6. Developer Page: 
 Provides information about the developer of this project that is me (Saksham Gupta).
 
